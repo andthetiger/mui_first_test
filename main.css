@@ -10,6 +10,8 @@ body {
   bottom: 0;
   width: auto;
   height: auto;
+  margin: 0 auto;
+  vertical-align: center;
 }
 
 #set-height {
